@@ -11,7 +11,7 @@ pygments: true
 title : Jekyll Bootstrap
 tagline: Site Tagline
 author :
-  name : geekan
+  name : GeekAn
   email : ether.wcl@gmail.com
   github : geekan
   twitter : geekan
@@ -82,7 +82,7 @@ JB :
   comments :
     provider : disqus
     disqus :
-      short_name : geekan_jekyll
+      short_name : jekyllbootstrap
     livefyre :
       site_id : 123
     intensedebate :
