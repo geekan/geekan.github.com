@@ -5,7 +5,7 @@ tagline: Code Marathoner.
 ---
 {% include JB/setup %}
 
-**Deprecated**: use http://www.anwcl.com/ now.
+**Deprecated**: use [www.anwcl.com](http://www.anwcl.com/) now.
 
 <ul class="posts">
   {% for post in site.posts %}
