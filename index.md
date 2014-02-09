@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Geekan
+title: Geekan - Code Marathoner
 tagline: Code Marathoner.
 ---
 {% include JB/setup %}
