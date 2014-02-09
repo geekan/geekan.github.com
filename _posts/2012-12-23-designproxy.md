@@ -1,16 +1,16 @@
 ---
 layout: post
 category : design
-tags : [design]
+tags : [proxy, design]
 title : a simple design of http proxy
 ---
 
 
-Browser                            Proxy                     HTTP server
-
+  Browser                        Proxy                            HTTP server
+  
   Open TCP connection  
   
-  Send HTTP request  ----------->           
+  Send HTTP request  ----------->
   
                                  Read HTTP header
 								 
@@ -26,4 +26,4 @@ Browser                            Proxy                     HTTP server
 								 
                    <-----------  it back to the browser
 				   
-Render content
+  Render content

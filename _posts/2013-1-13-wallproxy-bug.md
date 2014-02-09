@@ -1,7 +1,7 @@
 ---
 layout: post
 category : diary
-tags : [diary]
+tags : [proxy,diary]
 title : wallproxy bug(?)
 ---
 
